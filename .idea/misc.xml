@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_addconstructionsites.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_addmasonryworkers.xml" value="0.3625" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_addsupervisors.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_administratorhome.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_administratorlogin.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_administratorsignup.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_attendance.xml" value="0.2972222222222222" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_attendancetype.xml" value="0.2972222222222222" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_calculatesalary.xml" value="0.18" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_display_data_construction_sites.xml" value="0.1" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_display_data_masonry.xml" value="0.20260416666666667" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_displaydataforsupervisor.xml" value="0.20260416666666667" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_salary.xml" value="0.25" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_supervisorhome.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_supervisorlogin.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_view_masonry.xml" value="0.30185185185185187" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_view_supervisor.xml" value="0.30185185185185187" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_viewemployee.xml" value="0.3625" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/activity_viewstaff.xml" value="0.30185185185185187" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/roleselect.xml" value="0.33" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/singeldataviewmasonry.xml" value="0.30185185185185187" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/singeldataviewsupervisor.xml" value="0.30185185185185187" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/singledataforattendance.xml" value="0.2972222222222222" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/singledataforcalculate.xml" value="0.1" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/singledataforconstruction.xml" value="0.24074074074074073" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/singledataformasonry.xml" value="0.20260416666666667" />
+        <entry key="..\:/Assignment/MAD/APP/app/src/main/res/layout/singledataforsupervisor.xml" value="0.24074074074074073" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
